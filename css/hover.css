@@ -1,0 +1,24 @@
+@media only screen and (min-width: 768px) {
+    .social__link:hover {
+        background-color: #2ecc71;
+    }
+
+    .btn:hover {
+        background-color: rgba(46,204,113,.7);
+    }
+
+    .img-out:hover:after {
+        opacity: 1;
+    }
+
+    .social-media__link:hover {
+        background-color: #2ecc71;
+    }
+
+    .menu__link:hover {
+        border-radius: 10px;
+        background-color: #2ecc71;
+        color: white;
+        transition: background-color 0.8s ease;
+    }
+}
